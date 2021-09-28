@@ -1,0 +1,70 @@
+{
+    "slides": [
+        {
+            "title": "Kuinka hyvin palvelumme vastasivat haluamaanne lopputulosta?",
+            "options": [
+                "angry",
+                "sad",
+                "meh",
+                "happy",
+                "cool",
+                "astonished"
+            ]
+        },
+        {
+            "title": "Kuinka kuvailisit palvelumme aktiivisuutta ja läpinäkyvyyttä?",
+            "options": [
+                "angry",
+                "sad",
+                "meh",
+                "happy",
+                "cool",
+                "astonished"
+            ]
+        },
+        {
+            "title": "Koitko palveluidemme toteutumisen olevan liian hidasta?",
+            "options": [
+                "angry",
+                "sad",
+                "meh",
+                "happy",
+                "cool",
+                "astonished"
+            ]
+        },
+        {
+            "title": "Kuinka todennäköisesti hankkisit toisen tarjoamamme palvelun?",
+            "options": [
+                "angry",
+                "sad",
+                "meh",
+                "happy",
+                "cool",
+                "astonished"
+            ]
+        },
+        {
+            "title": "Kuinka todennäköisesti hankkisit toisen tarjoamamme palvelun?",
+            "options": [
+                "angry",
+                "sad",
+                "meh",
+                "happy",
+                "cool",
+                "astonished"
+            ]
+        },
+        {
+            "title": "Kuinka todennäköisesti suosittelisit palveluitamme toiselle?",
+            "options": [
+                "angry",
+                "sad",
+                "meh",
+                "happy",
+                "cool",
+                "astonished"
+            ]
+        }
+    ]
+}
